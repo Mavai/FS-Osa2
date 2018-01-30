@@ -1,0 +1,11 @@
+body {
+  margin: 100px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+img {
+  width: 300px;
+  border-style: solid;
+  border-color: lightgray
+}

@@ -1,0 +1,15 @@
+body {
+  margin: 100px;
+  padding: 10px
+}
+
+.success {
+  color: blue;
+  background: lightgreen;
+  font-size: 20px;
+  border-style: solid;
+  border-color: chartreuse;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
